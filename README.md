@@ -2,7 +2,7 @@
 
 Repository containing the code from our AI semester final project at the ENSEIRB and ENSC engineering schools. The long term goal is to build an agent capable of playing the Hanabi game, as it requires valuable skills for an artificial intelligence system. Our team focused on representing and updating knowledge in the game in a way that can be used to guess a player's own hand (its **self-knowledge**) but also its estimations about what other teammates know about their own hand (their own self-knowledge).
 
-More details on the context and design can be found in the [project report](Report.pdf).
+More details on the context and design can be found in the [project report](docs/Report.pdf).
 
 Team :
 - Achraf El Khamsi (ENSEIRB)
@@ -35,4 +35,8 @@ To try `Redranger`, or start a game with a custom configuration:
 - Choose the game parameters in `game.py` last line
 - Run the game with `$python game.py`
 
-## Sample Screenshots
+## Sample Screenshot
+
+![console screenshot](docs/screen1.png)
+
+
